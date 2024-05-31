@@ -34,6 +34,7 @@
 	margin-left:20px;
 	
 }
+
 .social-icons > i{
 	color : black;
 	background-color: white;
@@ -57,5 +58,5 @@
 	display:flex;
 	justify-content:space-between;
 	align-items:center;
-	background-color: rgb(30,30,40);
+	background-color:#2C303A;
 }
